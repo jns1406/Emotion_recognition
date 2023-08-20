@@ -30,5 +30,5 @@ This project leverages the RoBERTa pre-trained transformer model from Hugging Fa
    ```
 ### Sample viz
 
-![Image]()
+![Image](/workspaces/Text_Emotion_recognition/Image/sample.png)
 
