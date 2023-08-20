@@ -26,3 +26,9 @@ This project leverages the RoBERTa pre-trained transformer model from Hugging Fa
    ```bash
    git clone https://github.com/jns1406/Text_Emotion_recognition.git
    cd Emotion_recognition
+
+   ```
+### Sample viz
+
+![Image]()
+
